@@ -8,4 +8,4 @@ Estão incluídos:
 - O link para o vídeo no YouTube com a explicação do código
 
 # Link do vídeo:
-https://www.youtube.com/watch?v=RR0dekozJ8k
+https://www.youtube.com/watch?v=2smpJp3xjFQ
