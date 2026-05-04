@@ -6,3 +6,6 @@ Estão incluídos:
 - Arquivos .py dos exercícios
 - O enunciado da prova em .pdf (Enunciados Prova.pdf)
 - O link para o vídeo no YouTube com a explicação do código
+
+# Link do vídeo:
+https://www.youtube.com/watch?v=RR0dekozJ8k
